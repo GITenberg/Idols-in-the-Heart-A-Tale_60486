@@ -1,0 +1,35 @@
+_repo: Idols-in-the-Heart-A-Tale_60486
+_version: 0.0.1
+creator:
+  author:
+    agent_name: A. L. O. E.
+    aliases:
+    - Tucker, Charlotte Maria
+    - A.L.O.E.
+    birthdate: 1821
+    deathdate: 1893
+    gutenberg_agent_id: '31385'
+    url: http://www.gutenberg.org/2009/agents/31385
+    wikipedia: http://en.wikipedia.org/wiki/Charlotte_Maria_Tucker
+description: ''
+gutenberg_issued: '2019-10-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60486'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Stepmothers -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Youth and death -- Juvenile fiction'
+- !lcsh 'Faith -- Juvenile fiction'
+- !lcsh 'Families -- Juvenile fiction'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Poverty -- Juvenile fiction'
+- !lcsh 'Good and evil -- Juvenile fiction'
+- !lcsh 'Aunts -- Juvenile fiction'
+- GITenberg
+title: 'Idols in the Heart: A Tale'
+url: http://www.gutenberg.org/ebooks/60486
